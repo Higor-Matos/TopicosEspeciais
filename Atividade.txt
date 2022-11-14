@@ -1,0 +1,5 @@
+1 - Construir uma aplicação em Laravel com as seguintes funcionalidades: 
+* Realizar o upload de arquivo (de qualquer tipo). 
+* Criar uma caixa de diálogo para descrição do arquivo. 
+2 - Descrever os parâmetros via POST e GET no Laravel. Realizar em grupos de até 3 alunos. 
+Valor: 10 pontos. Criar um relatório, apresentando as telas da aplicação, principais trechos de códigos e comentários pertinentes à construção do software.
