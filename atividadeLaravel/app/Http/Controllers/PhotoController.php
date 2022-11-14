@@ -11,6 +11,6 @@ class PhotoController extends Controller
     }
 
     public function store(Request $request){
-        return $request->file('photo')->getClientOriginalName();
+        return $request->file('file')->getClientOriginalName();
     }
 }
