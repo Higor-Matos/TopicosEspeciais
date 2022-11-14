@@ -10,7 +10,7 @@
     <h1>Upload</h1>
     <form method="POST" action="/upload" enctype="multipart/form-data">
     @csrf
-    <input type="file" name="Arquivo">
+    <input type="file" name="photo">
     <input type="submit" name="Upload">
     </form>
 </body>
